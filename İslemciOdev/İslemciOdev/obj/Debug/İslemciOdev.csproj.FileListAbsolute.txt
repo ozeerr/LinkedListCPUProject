@@ -1,0 +1,10 @@
+C:\Users\AHMET EFE ÖZER\source\repos\İslemciOdev\İslemciOdev\obj\Debug\İslemciOdev.csproj.AssemblyReference.cache
+C:\Users\AHMET EFE ÖZER\source\repos\İslemciOdev\İslemciOdev\obj\Debug\İslemciOdev.Form1.resources
+C:\Users\AHMET EFE ÖZER\source\repos\İslemciOdev\İslemciOdev\obj\Debug\İslemciOdev.Properties.Resources.resources
+C:\Users\AHMET EFE ÖZER\source\repos\İslemciOdev\İslemciOdev\obj\Debug\İslemciOdev.csproj.GenerateResource.cache
+C:\Users\AHMET EFE ÖZER\source\repos\İslemciOdev\İslemciOdev\obj\Debug\İslemciOdev.csproj.CoreCompileInputs.cache
+C:\Users\AHMET EFE ÖZER\source\repos\İslemciOdev\İslemciOdev\bin\Debug\İslemciOdev.exe.config
+C:\Users\AHMET EFE ÖZER\source\repos\İslemciOdev\İslemciOdev\bin\Debug\İslemciOdev.exe
+C:\Users\AHMET EFE ÖZER\source\repos\İslemciOdev\İslemciOdev\bin\Debug\İslemciOdev.pdb
+C:\Users\AHMET EFE ÖZER\source\repos\İslemciOdev\İslemciOdev\obj\Debug\İslemciOdev.exe
+C:\Users\AHMET EFE ÖZER\source\repos\İslemciOdev\İslemciOdev\obj\Debug\İslemciOdev.pdb
